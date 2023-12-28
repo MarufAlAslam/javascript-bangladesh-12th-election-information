@@ -1,0 +1,6 @@
+# Editor files and folders
+.vscode
+*.vim
+
+# Miscellaneous
+.trash
