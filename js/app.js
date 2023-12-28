@@ -8,10 +8,6 @@ const e_popup = document.querySelector("#e-popup");
 let divisionName = "";
 let districtName = "";
 
-/**
- * NOTE: Should we keep English numbers as string or just as numbers? Which one
- * is better?
- */
 const BENGALI_DIGITS = new Map([
   [0, "০"],
   [1, "১"],
