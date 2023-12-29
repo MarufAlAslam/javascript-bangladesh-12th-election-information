@@ -1069,27 +1069,27 @@ const calculateTotalSeats = (distSeats) => {
       }
 
       // mymensingh seats
-      else if (seat.innerText === "ময়মনসিংহ-১") {
+      else if (seat.innerText === "ময়মনসিংহ-১") {
         e_popup_img.src = "https://i.ibb.co/DgQFtG2/Mymnshingh-1.jpg";
-      } else if (seat.innerText === "ময়মনসিংহ-২") {
+      } else if (seat.innerText === "ময়মনসিংহ-২") {
         e_popup_img.src = "https://i.ibb.co/THtzBLZ/Mymnshingh-2.jpg";
-      } else if (seat.innerText === "ময়মনসিংহ-৩") {
+      } else if (seat.innerText === "ময়মনসিংহ-৩") {
         e_popup_img.src = "https://i.ibb.co/7yWqJhb/Mymnshingh-3.jpg";
-      } else if (seat.innerText === "ময়মনসিংহ-৪") {
+      } else if (seat.innerText === "ময়মনসিংহ-৪") {
         e_popup_img.src = "https://i.ibb.co/sC2CY4J/Mymnshingh-4.jpg";
-      } else if (seat.innerText === "ময়মনসিংহ-৫") {
+      } else if (seat.innerText === "ময়মনসিংহ-৫") {
         e_popup_img.src = "https://i.ibb.co/YPdKfb4/Mymnshingh-5.jpg";
-      } else if (seat.innerText === "ময়মনসিংহ-৬") {
+      } else if (seat.innerText === "ময়মনসিংহ-৬") {
         e_popup_img.src = "https://i.ibb.co/Q865pFr/Mymnshingh-6.jpg";
-      } else if (seat.innerText === "ময়মনসিংহ-৭") {
+      } else if (seat.innerText === "ময়মনসিংহ-৭") {
         e_popup_img.src = "https://i.ibb.co/5YVfT75/Mymnshingh-7.jpg";
-      } else if (seat.innerText === "ময়মনসিংহ-৮") {
+      } else if (seat.innerText === "ময়মনসিংহ-৮") {
         e_popup_img.src = "https://i.ibb.co/kysWvYx/Mymnshingh-8.jpg";
-      } else if (seat.innerText === "ময়মনসিংহ-৯") {
+      } else if (seat.innerText === "ময়মনসিংহ-৯") {
         e_popup_img.src = "https://i.ibb.co/yFHN5m0/Mymnshingh-9.jpg";
-      } else if (seat.innerText === "ময়মনসিংহ-১০") {
+      } else if (seat.innerText === "ময়মনসিংহ-১০") {
         e_popup_img.src = "https://i.ibb.co/7kDPV9P/Mymnshingh-10.jpg";
-      } else if (seat.innerText === "ময়মনসিংহ-১১") {
+      } else if (seat.innerText === "ময়মনসিংহ-১১") {
         e_popup_img.src = "https://i.ibb.co/L67vftv/Mymnshingh-11.jpg";
       }
 
