@@ -1240,6 +1240,122 @@ const calculateTotalSeats = (distSeats) => {
       } else if (seat.innerText === "সিলেট-৬") {
         e_popup_img.src = "https://i.ibb.co/BB1C1yr/Sylhet-6.jpg";
       }
+
+      // chadpur seats
+      else if (seat.innerText === "চাঁদপুর-১") {
+        e_popup_img.src = "https://i.ibb.co/4FCpyMZ/Chadpur-1.jpg";
+      } else if (seat.innerText === "চাঁদপুর-২") {
+        e_popup_img.src = "https://i.ibb.co/KFD4zHn/Chadpur-2.jpg";
+      } else if (seat.innerText === "চাঁদপুর-৩") {
+        e_popup_img.src = "https://i.ibb.co/Wk2RnGz/Chadpur-3.jpg";
+      } else if (seat.innerText === "চাঁদপুর-৪") {
+        e_popup_img.src = "https://i.ibb.co/B3LkGG9/Chadpur-4.jpg";
+      } else if (seat.innerText === "চাঁদপুর-৫") {
+        e_popup_img.src = "https://i.ibb.co/DwCzgnF/Chadpur-5.jpg";
+      }
+
+      // comilla seats
+      else if (seat.innerText === "কুমিল্লা-১") {
+        e_popup_img.src = "https://i.ibb.co/RvDq3Qm/Comilla-1.jpg";
+      } else if (seat.innerText === "কুমিল্লা-২") {
+        e_popup_img.src = "https://i.ibb.co/f4GfbJk/Comilla-2.jpg";
+      } else if (seat.innerText === "কুমিল্লা-৩") {
+        e_popup_img.src = "https://i.ibb.co/prGmxhG/Comilla-3.jpg";
+      } else if (seat.innerText === "কুমিল্লা-৪") {
+        e_popup_img.src = "https://i.ibb.co/0DjY3MN/Comilla-4.jpg";
+      } else if (seat.innerText === "কুমিল্লা-৫") {
+        e_popup_img.src = "https://i.ibb.co/0VVgQXf/Comilla-5.jpg";
+      } else if (seat.innerText === "কুমিল্লা-৬") {
+        e_popup_img.src = "https://i.ibb.co/Nj1NXSX/Comilla-6.jpg";
+      } else if (seat.innerText === "কুমিল্লা-৭") {
+        e_popup_img.src = "https://i.ibb.co/9pLncRN/Comilla-7.jpg";
+      } else if (seat.innerText === "কুমিল্লা-৮") {
+        e_popup_img.src = "https://i.ibb.co/QDgyLvX/Comilla-8.jpg";
+      } else if (seat.innerText === "কুমিল্লা-৯") {
+        e_popup_img.src = "https://i.ibb.co/tM8LGYB/Comilla-9.jpg";
+      } else if (seat.innerText === "কুমিল্লা-১০") {
+        e_popup_img.src = "https://i.ibb.co/q0jsZc3/Comilla-10.jpg";
+      } else if (seat.innerText === "কুমিল্লা-১১") {
+        e_popup_img.src = "https://i.ibb.co/QcWmS7K/Comilla-11.jpg";
+      }
+
+      // feni seats
+      else if (seat.innerText === "ফেনী-১") {
+        e_popup_img.src = "https://i.ibb.co/1vLB7Vv/Feni-1.jpg";
+      } else if (seat.innerText === "ফেনী-২") {
+        e_popup_img.src = "https://i.ibb.co/NnrxwTj/Feni-2.jpg";
+      } else if (seat.innerText === "ফেনী-৩") {
+        e_popup_img.src = "https://i.ibb.co/kqnF0ZM/Feni-3.jpg";
+      }
+
+      // lakshmipur seats
+      else if (seat.innerText === "লক্ষ্মীপুর-১") {
+        e_popup_img.src = "https://i.ibb.co/d7bG6yG/Laksmipur-1.jpg";
+      } else if (seat.innerText === "লক্ষ্মীপুর-২") {
+        e_popup_img.src = "https://i.ibb.co/TPmncV9/Laksmipur-2.jpg";
+      } else if (seat.innerText === "লক্ষ্মীপুর-৩") {
+        e_popup_img.src = "https://i.ibb.co/x3Dj43T/Laksmipur-3.jpg";
+      } else if (seat.innerText === "লক্ষ্মীপুর-৪") {
+        e_popup_img.src = "https://i.ibb.co/C77c9NJ/Laksmipur-4.jpg";
+      }
+
+      // noakhali seats
+      else if (seat.innerText === "নোয়াখালী-১") {
+        e_popup_img.src = "https://i.ibb.co/3hDb2bY/Noakhali-1.jpg";
+      } else if (seat.innerText === "নোয়াখালী-২") {
+        e_popup_img.src = "https://i.ibb.co/S7byyLc/Noakhali-2.jpg";
+      } else if (seat.innerText === "নোয়াখালী-৩") {
+        e_popup_img.src = "https://i.ibb.co/LQRvzkM/Noakhali-3.jpg";
+      } else if (seat.innerText === "নোয়াখালী-৪") {
+        e_popup_img.src = "https://i.ibb.co/5swPCRh/Noakhali-4.jpg";
+      } else if (seat.innerText === "নোয়াখালী-৫") {
+        e_popup_img.src = "https://i.ibb.co/T1Yg47z/Noakhali-5.jpg";
+      } else if (seat.innerText === "নোয়াখালী-৬") {
+        e_popup_img.src = "https://i.ibb.co/bJLKYj9/Noakhali-6.jpg";
+      }
+
+      // dhaka seats
+      else if (seat.innerText === "ঢাকা-১") {
+        e_popup_img.src = "https://i.ibb.co/7gkPBZb/Dhaka-1.jpg";
+      } else if (seat.innerText === "ঢাকা-২") {
+        e_popup_img.src = "https://i.ibb.co/zN0CbqH/Dhaka-2.jpg";
+      } else if (seat.innerText === "ঢাকা-৩") {
+        e_popup_img.src = "https://i.ibb.co/4fq0THc/Dhaka-3.jpg";
+      } else if (seat.innerText === "ঢাকা-৪") {
+        e_popup_img.src = "https://i.ibb.co/27NP4mk/Dhaka-4.jpg";
+      } else if (seat.innerText === "ঢাকা-৫") {
+        e_popup_img.src = "https://i.ibb.co/YXMn6nK/Dhaka-5.jpg";
+      } else if (seat.innerText === "ঢাকা-৬") {
+        e_popup_img.src = "https://i.ibb.co/Jv4VCFX/Dhaka-6.jpg";
+      } else if (seat.innerText === "ঢাকা-৭") {
+        e_popup_img.src = "https://i.ibb.co/Qj5gFYm/Dhaka-7.jpg";
+      } else if (seat.innerText === "ঢাকা-৮") {
+        e_popup_img.src = "https://i.ibb.co/nCjDpwn/Dhaka-8.jpg";
+      } else if (seat.innerText === "ঢাকা-৯") {
+        e_popup_img.src = "https://i.ibb.co/gWLStNz/Dhaka-9.jpg";
+      } else if (seat.innerText === "ঢাকা-১০") {
+        e_popup_img.src = "https://i.ibb.co/tYxr76Y/Dhaka-10.jpg";
+      } else if (seat.innerText === "ঢাকা-১১") {
+        e_popup_img.src = "https://i.ibb.co/bvhCbh3/Dhaka-11.jpg";
+      } else if (seat.innerText === "ঢাকা-১২") {
+        e_popup_img.src = "https://i.ibb.co/NyjSPBh/Dhaka-12.jpg";
+      } else if (seat.innerText === "ঢাকা-১৩") {
+        e_popup_img.src = "https://i.ibb.co/J5frkWG/Dhaka-13.jpg";
+      } else if (seat.innerText === "ঢাকা-১৪") {
+        e_popup_img.src = "https://i.ibb.co/MgCL3vx/Dhaka-14.jpg";
+      } else if (seat.innerText === "ঢাকা-১৫") {
+        e_popup_img.src = "https://i.ibb.co/8d3W9YK/Dhaka-15.jpg";
+      } else if (seat.innerText === "ঢাকা-১৬") {
+        e_popup_img.src = "https://i.ibb.co/NYVt7jy/Dhaka-16.jpg";
+      } else if (seat.innerText === "ঢাকা-১৭") {
+        e_popup_img.src = "https://i.ibb.co/rsRdYSq/Dhaka-17.jpg";
+      } else if (seat.innerText === "ঢাকা-১৮") {
+        e_popup_img.src = "https://i.ibb.co/VqxwMyb/Dhaka-18.jpg";
+      } else if (seat.innerText === "ঢাকা-১৯") {
+        e_popup_img.src = "https://i.ibb.co/rMYWtQv/Dhaka-19.jpg";
+      } else if (seat.innerText === "ঢাকা-২০") {
+        e_popup_img.src = "https://i.ibb.co/zf0N4dZ/Dhaka-20.jpg";
+      }
     });
   });
 };
