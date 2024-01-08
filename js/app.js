@@ -606,15 +606,15 @@ const calculateTotalSeats = (distSeats) => {
 
       // gaibandha seats
       else if (seat.innerText === "গাইবান্ধা-১") {
-        e_popup_img.src = "https://i.ibb.co/vvJXNbY/Gaibandha-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/MGbgWLx/Gaibandha-1.jpg";
       } else if (seat.innerText === "গাইবান্ধা-২") {
-        e_popup_img.src = "https://i.ibb.co/JnRqWYK/Gaibandha-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/MnT6H6x/Gaibandha-2.jpg";
       } else if (seat.innerText === "গাইবান্ধা-৩") {
-        e_popup_img.src = "https://i.ibb.co/sb5yvSb/Gaibandha-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/r3fHQrK/Gaibandha-3.jpg";
       } else if (seat.innerText === "গাইবান্ধা-৪") {
-        e_popup_img.src = "https://i.ibb.co/5v9FxPt/Gaibandha-4.jpg";
+        e_popup_img.src = "https://i.ibb.co/ryQXH8c/Gaibandha-4.jpg";
       } else if (seat.innerText === "গাইবান্ধা-৫") {
-        e_popup_img.src = "https://i.ibb.co/J7Tvnj3/Gaibandha-5.jpg";
+        e_popup_img.src = "https://i.ibb.co/thYCZs0/Gaibandha-5.jpg";
       }
 
       // jaipurhat seats
@@ -646,39 +646,39 @@ const calculateTotalSeats = (distSeats) => {
 
       // natore seats
       else if (seat.innerText === "নাটোর-১") {
-        e_popup_img.src = "https://i.ibb.co/c235Q2J/Nator-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/Jv9hYKS/Nator-1.jpg";
       } else if (seat.innerText === "নাটোর-২") {
-        e_popup_img.src = "https://i.ibb.co/c2mPY6L/Nator-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/pdz0HQt/Nator-2.jpg";
       } else if (seat.innerText === "নাটোর-৩") {
-        e_popup_img.src = "https://i.ibb.co/M7Z60wZ/Nator-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/zxCFRm1/Nator-3.jpg";
       } else if (seat.innerText === "নাটোর-৪") {
-        e_popup_img.src = "https://i.ibb.co/4mCYMpv/Nator-4.jpg";
+        e_popup_img.src = "https://i.ibb.co/rk9kGxs/Nator-4.jpg";
       }
 
       // nilphamari seats
       else if (seat.innerText === "নীলফামারী-১") {
-        e_popup_img.src = "https://i.ibb.co/3pdT1cz/Nilphamari-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/28dkVHb/Nilphamari-1.jpg";
       } else if (seat.innerText === "নীলফামারী-২") {
-        e_popup_img.src = "https://i.ibb.co/Tbjchwz/Nilphamari-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/vdrkZr2/Nilphamari-2.jpg";
       } else if (seat.innerText === "নীলফামারী-৩") {
-        e_popup_img.src = "https://i.ibb.co/tM587sV/Nilphamari-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/g7tQNpx/Nilphamari-3.jpg";
       } else if (seat.innerText === "নীলফামারী-৪") {
-        e_popup_img.src = "https://i.ibb.co/z69g4J2/Nilphamari-4.jpg";
+        e_popup_img.src = "https://i.ibb.co/0cPSdM4/Nilphamari-4.jpg";
       }
 
       // naogaon seats
       else if (seat.innerText === "নওগাঁ-১") {
-        e_popup_img.src = "https://i.ibb.co/0cYkj39/Nowgao-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/YLVrSmQ/Nowgao-1.jpg";
       } else if (seat.innerText === "নওগাঁ-২") {
-        e_popup_img.src = "https://i.ibb.co/wYVN0zs/Nowgao-2.jpg";
+        e_popup_img.src = "https://img.freepik.com/free-vector/postponed-stamp-design_23-2148493921.jpg";
       } else if (seat.innerText === "নওগাঁ-৩") {
-        e_popup_img.src = "https://i.ibb.co/gRg6TB8/Nowgao-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/RCksqvB/Nowgao-3.jpg";
       } else if (seat.innerText === "নওগাঁ-৪") {
-        e_popup_img.src = "https://i.ibb.co/xHbgXh4/Nowgao-4.jpg";
+        e_popup_img.src = "https://i.ibb.co/qC0Scn0/Nowgao-4.jpg";
       } else if (seat.innerText === "নওগাঁ-৫") {
-        e_popup_img.src = "https://i.ibb.co/QP74fTc/Nowgao-5.jpg";
+        e_popup_img.src = "https://i.ibb.co/0fLH3Qx/Nowgao-5.jpg";
       } else if (seat.innerText === "নওগাঁ-৬") {
-        e_popup_img.src = "https://i.ibb.co/VJjN1xf/Nowgao-6.jpg";
+        e_popup_img.src = "https://i.ibb.co/r49nMny/Nowgao-6.jpg";
       }
 
       // panchagar seats
@@ -779,7 +779,7 @@ const calculateTotalSeats = (distSeats) => {
       } else if (seat.innerText === "চট্টগ্রাম-৬") {
         e_popup_img.src = "https://i.ibb.co/Qr9k0Jr/Chattagram-6.jpg";
       } else if (seat.innerText === "চট্টগ্রাম-৭") {
-        e_popup_img.src = "https://i.ibb.co/TMgmFzf/Chattagram-7.jpg";
+        e_popup_img.src = "https://i.ibb.co/7yYBLKV/Chattagram-7.jpg";
       } else if (seat.innerText === "চট্টগ্রাম-৮") {
         e_popup_img.src = "https://i.ibb.co/t3rX4Yb/Chattagram-8.jpg";
       } else if (seat.innerText === "চট্টগ্রাম-৯") {
@@ -898,22 +898,22 @@ const calculateTotalSeats = (distSeats) => {
 
       // narail seats
       else if (seat.innerText === "নড়াইল-১") {
-        e_popup_img.src = "https://i.ibb.co/1qng42Y/Narail-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/YbD4zTm/Narail-1.jpg";
       } else if (seat.innerText === "নড়াইল-২") {
-        e_popup_img.src = "https://i.ibb.co/8MPdjj3/Narail-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/47XBGSp/Narail-2.jpg";
       }
 
       // pabna seats
       else if (seat.innerText === "পাবনা-১") {
-        e_popup_img.src = "https://i.ibb.co/Y0LwSNK/Pabna-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/ySJtQVs/Pabna-1.jpg";
       } else if (seat.innerText === "পাবনা-২") {
-        e_popup_img.src = "https://i.ibb.co/kgL8spj/Pabna-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/n1z4pWX/Pabna-2.jpg";
       } else if (seat.innerText === "পাবনা-৩") {
-        e_popup_img.src = "https://i.ibb.co/Kb4Jm0H/Pabna-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/fp7f6Lb/Pabna-3.jpg";
       } else if (seat.innerText === "পাবনা-৪") {
-        e_popup_img.src = "https://i.ibb.co/GPF2fkx/Pabna-4.jpg";
+        e_popup_img.src = "https://i.ibb.co/zH9VVxS/Pabna-4.jpg";
       } else if (seat.innerText === "পাবনা-৫") {
-        e_popup_img.src = "https://i.ibb.co/G9gDmGx/Pabna-5.jpg";
+        e_popup_img.src = "https://i.ibb.co/5W81zY9/Pabna-5.jpg";
       }
 
       // pirojpur seats
@@ -1095,41 +1095,41 @@ const calculateTotalSeats = (distSeats) => {
 
       // narayanganj seats
       else if (seat.innerText === "নারায়নগঞ্জ-১") {
-        e_popup_img.src = "https://i.ibb.co/JqyMx0h/Narayanganj-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/nRbwpkD/Narayanganj-1.jpg";
       } else if (seat.innerText === "নারায়নগঞ্জ-২") {
-        e_popup_img.src = "https://i.ibb.co/9YmrNP2/Narayanganj-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/ZYKQ9pF/Narayanganj-2.jpg";
       } else if (seat.innerText === "নারায়নগঞ্জ-৩") {
-        e_popup_img.src = "https://i.ibb.co/fQ2XPwr/Narayanganj-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/vHWf0Vp/Narayanganj-3.jpg";
       } else if (seat.innerText === "নারায়নগঞ্জ-৪") {
-        e_popup_img.src = "https://i.ibb.co/HHDpKpD/Narayanganj-4.jpg";
+        e_popup_img.src = "https://i.ibb.co/tzSDZsR/Narayanganj-4.jpg";
       } else if (seat.innerText === "নারায়নগঞ্জ-৫") {
-        e_popup_img.src = "https://i.ibb.co/5R0FyjS/Narayanganj-5.jpg";
+        e_popup_img.src = "https://i.ibb.co/hCc2zD4/Narayanganj-5.jpg";
       }
 
       // narshingdi seats
       else if (seat.innerText === "নরসিংদী-১") {
-        e_popup_img.src = "https://i.ibb.co/DQjsq2T/Narsingdi-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/wST4C5c/Narsingdi-1.jpg";
       } else if (seat.innerText === "নরসিংদী-২") {
-        e_popup_img.src = "https://i.ibb.co/zRXXGdd/Narsingdi-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/LYTTcdb/Narsingdi-2.jpg";
       } else if (seat.innerText === "নরসিংদী-৩") {
-        e_popup_img.src = "https://i.ibb.co/gRvCgzf/Narsingdi-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/NZmkDps/Narsingdi-3.jpg";
       } else if (seat.innerText === "নরসিংদী-৪") {
-        e_popup_img.src = "https://i.ibb.co/4SHHmrh/Narsingdi-4.jpg";
+        e_popup_img.src = "https://i.ibb.co/RNbkfcT/Narsingdi-4.jpg";
       } else if (seat.innerText === "নরসিংদী-৫") {
-        e_popup_img.src = "https://i.ibb.co/Jv2BhFL/Narsingdi-5.jpg";
+        e_popup_img.src = "https://i.ibb.co/qFFgT1G/Narsingdi-5.jpg";
       }
 
       // netrokona seats
       else if (seat.innerText === "নেত্রকোনা-১") {
-        e_popup_img.src = "https://i.ibb.co/8rH19mc/Netrokona-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/hW4LrJH/Netrokona-1.jpg";
       } else if (seat.innerText === "নেত্রকোনা-২") {
-        e_popup_img.src = "https://i.ibb.co/swZpfMt/Netrokona-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/JFDrGJb/Netrokona-2.jpg";
       } else if (seat.innerText === "নেত্রকোনা-৩") {
-        e_popup_img.src = "https://i.ibb.co/mhfsnFt/Netrokona-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/VYND720/Netrokona-3.jpg";
       } else if (seat.innerText === "নেত্রকোনা-৪") {
-        e_popup_img.src = "https://i.ibb.co/DrjcF1G/Netrokona-4.jpg";
+        e_popup_img.src = "https://i.ibb.co/bFvkK2x/Netrokona-4.jpg";
       } else if (seat.innerText === "নেত্রকোনা-৫") {
-        e_popup_img.src = "https://i.ibb.co/CbRwgLZ/Netrokona-5.jpg";
+        e_popup_img.src = "https://i.ibb.co/pjq2ykN/Netrokona-5.jpg";
       }
 
       // rajbari seats
@@ -1281,11 +1281,11 @@ const calculateTotalSeats = (distSeats) => {
 
       // feni seats
       else if (seat.innerText === "ফেনী-১") {
-        e_popup_img.src = "https://i.ibb.co/1vLB7Vv/Feni-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/symrP24/Feni-1.jpg";
       } else if (seat.innerText === "ফেনী-২") {
-        e_popup_img.src = "https://i.ibb.co/NnrxwTj/Feni-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/g6yZ0Cs/Feni-2.jpg";
       } else if (seat.innerText === "ফেনী-৩") {
-        e_popup_img.src = "https://i.ibb.co/kqnF0ZM/Feni-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/ZK47P1d/Feni-3.jpg";
       }
 
       // lakshmipur seats
@@ -1301,17 +1301,17 @@ const calculateTotalSeats = (distSeats) => {
 
       // noakhali seats
       else if (seat.innerText === "নোয়াখালী-১") {
-        e_popup_img.src = "https://i.ibb.co/3hDb2bY/Noakhali-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/k32s4x7/Noakhali-1.jpg";
       } else if (seat.innerText === "নোয়াখালী-২") {
-        e_popup_img.src = "https://i.ibb.co/S7byyLc/Noakhali-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/K07qhh4/Noakhali-2.jpg";
       } else if (seat.innerText === "নোয়াখালী-৩") {
-        e_popup_img.src = "https://i.ibb.co/LQRvzkM/Noakhali-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/1bS1x6Y/Noakhali-3.jpg";
       } else if (seat.innerText === "নোয়াখালী-৪") {
-        e_popup_img.src = "https://i.ibb.co/5swPCRh/Noakhali-4.jpg";
+        e_popup_img.src = "https://i.ibb.co/KqZyYZ2/Noakhali-4.jpg";
       } else if (seat.innerText === "নোয়াখালী-৫") {
-        e_popup_img.src = "https://i.ibb.co/T1Yg47z/Noakhali-5.jpg";
+        e_popup_img.src = "https://i.ibb.co/q1MHvwZ/Noakhali-5.jpg";
       } else if (seat.innerText === "নোয়াখালী-৬") {
-        e_popup_img.src = "https://i.ibb.co/bJLKYj9/Noakhali-6.jpg";
+        e_popup_img.src = "https://i.ibb.co/2k7SZZ4/Noakhali-6.jpg";
       }
 
       // dhaka seats
