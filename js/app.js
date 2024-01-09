@@ -619,29 +619,29 @@ const calculateTotalSeats = (distSeats) => {
 
       // jaipurhat seats
       else if (seat.innerText === "জয়পুরহাট-১") {
-        e_popup_img.src = "https://i.ibb.co/gmw3cS5/Jaypurhat-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/xLxXyKz/Jaypurhat-1.jpg";
       } else if (seat.innerText === "জয়পুরহাট-২") {
-        e_popup_img.src = "https://i.ibb.co/gzK9K09/Jaypurhat-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/ZxKGMFm/Jaypurhat-2.jpg";
       }
 
       // kurigram seats
       else if (seat.innerText === "কুড়িগ্রাম-১") {
-        e_popup_img.src = "https://i.ibb.co/rb2kYXd/Kurigram-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/yYpx6jX/Kurigram-1.jpg";
       } else if (seat.innerText === "কুড়িগ্রাম-২") {
-        e_popup_img.src = "https://i.ibb.co/LrJ4H7y/Kurigram-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/Ry285zy/Kurigram-2.jpg";
       } else if (seat.innerText === "কুড়িগ্রাম-৩") {
-        e_popup_img.src = "https://i.ibb.co/p0MRNmg/Kurigram-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/PN60mhH/Kurigram-3.jpg";
       } else if (seat.innerText === "কুড়িগ্রাম-৪") {
-        e_popup_img.src = "https://i.ibb.co/sH0q6DP/Kurigram-4.jpg";
+        e_popup_img.src = "https://i.ibb.co/FB1gzDt/Kurigram-4.jpg";
       }
 
       // lalmonirhat seats
       else if (seat.innerText === "লালমনিরহাট-১") {
-        e_popup_img.src = "https://i.ibb.co/LYsF3rX/Lalmonirhat-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/2Ys3ZfK/lalmonirhat-1.jpg";
       } else if (seat.innerText === "লালমনিরহাট-২") {
-        e_popup_img.src = "https://i.ibb.co/y5pKB5D/Lalmonirhat-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/kc3M7rx/lalmonirhat-2.jpg";
       } else if (seat.innerText === "লালমনিরহাট-৩") {
-        e_popup_img.src = "https://i.ibb.co/7Wrx13w/Lalmonirhat-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/NNXCgcj/lalmonirhat-3.jpg";
       }
 
       // natore seats
@@ -670,7 +670,7 @@ const calculateTotalSeats = (distSeats) => {
       else if (seat.innerText === "নওগাঁ-১") {
         e_popup_img.src = "https://i.ibb.co/YLVrSmQ/Nowgao-1.jpg";
       } else if (seat.innerText === "নওগাঁ-২") {
-        e_popup_img.src = "https://img.freepik.com/free-vector/postponed-stamp-design_23-2148493921.jpg";
+        e_popup_img.src = "https://i.ibb.co/TRttqDR/Postponed.jpg";
       } else if (seat.innerText === "নওগাঁ-৩") {
         e_popup_img.src = "https://i.ibb.co/RCksqvB/Nowgao-3.jpg";
       } else if (seat.innerText === "নওগাঁ-৪") {
@@ -683,48 +683,48 @@ const calculateTotalSeats = (distSeats) => {
 
       // panchagar seats
       else if (seat.innerText === "পঞ্চগড়-১") {
-        e_popup_img.src = "https://i.ibb.co/VJxZLFx/Panchagar-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/txGS1rz/Panchagar-1.jpg";
       } else if (seat.innerText === "পঞ্চগড়-২") {
-        e_popup_img.src = "https://i.ibb.co/JRm0FRN/Panchagar-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/1rL4xFc/Panchagar-2.jpg";
       }
 
       // rajshahi seats
       else if (seat.innerText === "রাজশাহী-১") {
-        e_popup_img.src = "https://i.ibb.co/tPWrRpQ/Rajshahi-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/mHD8zLT/Rajshahi-1.jpg";
       } else if (seat.innerText === "রাজশাহী-২") {
-        e_popup_img.src = "https://i.ibb.co/CmXTjp2/Rajshahi-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/zRM8CyB/Rajshahi-2.jpg";
       } else if (seat.innerText === "রাজশাহী-৩") {
-        e_popup_img.src = "https://i.ibb.co/1r8rhtB/Rajshahi-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/f9GdFv0/Rajshahi-3.jpg";
       } else if (seat.innerText === "রাজশাহী-৪") {
-        e_popup_img.src = "https://i.ibb.co/Wc40TmK/Rajshahi-4.jpg";
+        e_popup_img.src = "https://i.ibb.co/TTPYTyL/Rajshahi-4.jpg";
       } else if (seat.innerText === "রাজশাহী-৫") {
-        e_popup_img.src = "https://i.ibb.co/n64f9cw/Rajshahi-5.jpg";
+        e_popup_img.src = "https://i.ibb.co/n6tQ3vk/Rajshahi-5.jpg";
       } else if (seat.innerText === "রাজশাহী-৬") {
-        e_popup_img.src = "https://i.ibb.co/F3GWSQ8/Rajshahi-6.jpg";
+        e_popup_img.src = "https://i.ibb.co/WDqDdpV/Rajshahi-6.jpg";
       }
 
       // rangpur seats
       else if (seat.innerText === "রংপুর-১") {
-        e_popup_img.src = "https://i.ibb.co/xfq1ZRr/Rangpur-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/jZ161sp/rangpur-1.jpg";
       } else if (seat.innerText === "রংপুর-২") {
-        e_popup_img.src = "https://i.ibb.co/xj5JryH/Rangpur-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/CVn8FKS/rangpur-2.jpg";
       } else if (seat.innerText === "রংপুর-৩") {
-        e_popup_img.src = "https://i.ibb.co/J2RzYcM/Rangpur-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/7jdz5xK/rangpur-3.jpg";
       } else if (seat.innerText === "রংপুর-৪") {
-        e_popup_img.src = "https://i.ibb.co/gPzv503/Rangpur-4.jpg";
+        e_popup_img.src = "https://i.ibb.co/Vg7hNRx/rangpur-4.jpg";
       } else if (seat.innerText === "রংপুর-৫") {
-        e_popup_img.src = "https://i.ibb.co/WvXP8wh/Rangpur-5.jpg";
+        e_popup_img.src = "https://i.ibb.co/mR3tq91/rangpur-5.jpg";
       } else if (seat.innerText === "রংপুর-৬") {
-        e_popup_img.src = "https://i.ibb.co/D1bGWDt/Rangpur-6.jpg";
+        e_popup_img.src = "https://i.ibb.co/ZxLhvsB/rangpur-6.jpg";
       }
 
       // thakurgaon seats
       else if (seat.innerText === "ঠাকুরগাঁও-১") {
-        e_popup_img.src = "https://i.ibb.co/jRrCZZP/Thakurgao-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/84GFnsW/Thakurgao-1.jpg";
       } else if (seat.innerText === "ঠাকুরগাঁও-২") {
-        e_popup_img.src = "https://i.ibb.co/xjbLFBT/Thakurgao-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/jvMvsVB/Thakurgao-2.jpg";
       } else if (seat.innerText === "ঠাকুরগাঁও-৩") {
-        e_popup_img.src = "https://i.ibb.co/Gpw6HqC/Thakurgao-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/pXnJTSP/Thakurgao-34.jpg";
       }
 
       // bagerhat seats
@@ -820,80 +820,80 @@ const calculateTotalSeats = (distSeats) => {
 
       // jessore seats
       else if (seat.innerText === "যশোর-১") {
-        e_popup_img.src = "https://i.ibb.co/nc0M57B/Jessor-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/wLj1z72/Jessore-1.jpg";
       } else if (seat.innerText === "যশোর-২") {
-        e_popup_img.src = "https://i.ibb.co/YcgymZb/Jessor-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/KWSH4Bk/Jessore-2.jpg";
       } else if (seat.innerText === "যশোর-৩") {
-        e_popup_img.src = "https://i.ibb.co/cyPcgHR/Jessor-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/cyzctx5/Jessore-3.jpg";
       } else if (seat.innerText === "যশোর-৪") {
-        e_popup_img.src = "https://i.ibb.co/c3PdzC7/Jessor-4.jpg";
+        e_popup_img.src = "https://i.ibb.co/Mf2xFG9/Jessore-4.jpg";
       } else if (seat.innerText === "যশোর-৫") {
-        e_popup_img.src = "https://i.ibb.co/g9njjFL/Jessor-5.jpg";
+        e_popup_img.src = "https://i.ibb.co/9qTL8vS/Jessore-5.jpg";
       } else if (seat.innerText === "যশোর-৬") {
-        e_popup_img.src = "https://i.ibb.co/kKdSVJy/Jessor-6.jpg";
+        e_popup_img.src = "https://i.ibb.co/mq3fTY7/Jessore-6.jpg";
       }
 
       // jhalakathi seats
       else if (seat.innerText === "ঝালকাঠি-১") {
-        e_popup_img.src = "https://i.ibb.co/41W6xqs/Jhalkathi-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/SB3Kt9T/Jhalkathi-1.jpg";
       } else if (seat.innerText === "ঝালকাঠি-২") {
-        e_popup_img.src = "https://i.ibb.co/PrgSDQq/Jhalkathi-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/rxn2wzZ/Jhalkathi-2.jpg";
       }
 
       // jhenidah seats
       else if (seat.innerText === "ঝিনাইদহ-১") {
-        e_popup_img.src = "https://i.ibb.co/QnLjkzx/Jhinaidah-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/880NQt5/Jhinaidah-1.jpg";
       } else if (seat.innerText === "ঝিনাইদহ-২") {
-        e_popup_img.src = "https://i.ibb.co/zFMnxZt/Jhinaidah-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/2yjbpkZ/Jhinaidah-2.jpg";
       } else if (seat.innerText === "ঝিনাইদহ-৩") {
-        e_popup_img.src = "https://i.ibb.co/jVXdXTq/Jhinaidah-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/Y85DCLg/Jhinaidah-3.jpg";
       } else if (seat.innerText === "ঝিনাইদহ-৪") {
-        e_popup_img.src = "https://i.ibb.co/zJh0MWK/Jhinaidah-4.jpg";
+        e_popup_img.src = "https://i.ibb.co/JRP880F/Jhinaidah-4.jpg";
       }
 
       // khagrachhari
       else if (seat.innerText === "খাগড়াছড়ি") {
-        e_popup_img.src = "https://i.ibb.co/p3XRQTd/Khagrachori-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/TMtv8mV/Khagrachori.jpg";
       }
 
       // khulna seats
       else if (seat.innerText === "খুলনা-১") {
-        e_popup_img.src = "https://i.ibb.co/1QYZwFS/Khulna-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/dJrp8G9/Khulna-1.jpg";
       } else if (seat.innerText === "খুলনা-২") {
-        e_popup_img.src = "https://i.ibb.co/fk5X365/Khulna-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/8NhfY9m/Khulna-2.jpg";
       } else if (seat.innerText === "খুলনা-৩") {
-        e_popup_img.src = "https://i.ibb.co/McQNkzp/Khulna-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/fNLQNGS/Khulna-3.jpg";
       } else if (seat.innerText === "খুলনা-৪") {
-        e_popup_img.src = "https://i.ibb.co/f18fhPC/Khulna-4.jpg";
+        e_popup_img.src = "https://i.ibb.co/f9YxVjn/Khulna-4.jpg";
       } else if (seat.innerText === "খুলনা-৫") {
-        e_popup_img.src = "https://i.ibb.co/2YhBCkn/Khulna-5.jpg";
+        e_popup_img.src = "https://i.ibb.co/KXhgt6g/Khulna-5.jpg";
       } else if (seat.innerText === "খুলনা-৬") {
-        e_popup_img.src = "https://i.ibb.co/6cKvGH6/Khulna-6.jpg";
+        e_popup_img.src = "https://i.ibb.co/qxwMVyk/Khulna-6.jpg";
       }
 
       // kushtia seats
       else if (seat.innerText === "কুষ্টিয়া-১") {
-        e_popup_img.src = "https://i.ibb.co/VJR16Y1/Kustia-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/RBg4MPF/Kustia-1.jpg";
       } else if (seat.innerText === "কুষ্টিয়া-২") {
-        e_popup_img.src = "https://i.ibb.co/XzkXzYv/Kustia-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/pJqnnMx/Kustia-2.jpg";
       } else if (seat.innerText === "কুষ্টিয়া-৩") {
-        e_popup_img.src = "https://i.ibb.co/bdxRLVj/Kustia-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/kggXLTW/Kustia-3.jpg";
       } else if (seat.innerText === "কুষ্টিয়া-৪") {
-        e_popup_img.src = "https://i.ibb.co/hmKT1tq/Kustia-4.jpg";
+        e_popup_img.src = "https://i.ibb.co/FXK8RQT/Kustia-4.jpg";
       }
 
       // magura seats
       else if (seat.innerText === "মাগুরা-১") {
-        e_popup_img.src = "https://i.ibb.co/2NNQWC4/Magura-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/CKwy0jh/Magura-1.jpg";
       } else if (seat.innerText === "মাগুরা-২") {
-        e_popup_img.src = "https://i.ibb.co/kJhPzRM/Magura-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/4gs2W1R/Magura-2.jpg";
       }
 
       // meherpur seats
       else if (seat.innerText === "মেহেরপুর-১") {
-        e_popup_img.src = "https://i.ibb.co/6rPsvXF/Meherpur-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/2jyfcdP/Meherpur-1.jpg";
       } else if (seat.innerText === "মেহেরপুর-২") {
-        e_popup_img.src = "https://i.ibb.co/wQcYV2D/Meherpur-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/LvJTWYk/Meherpur-2.jpg";
       }
 
       // narail seats
@@ -918,66 +918,66 @@ const calculateTotalSeats = (distSeats) => {
 
       // pirojpur seats
       else if (seat.innerText === "পিরোজপুর-১") {
-        e_popup_img.src = "https://i.ibb.co/WV5rzBP/Pirojpur-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/wymbwRL/Pirojpur-1.jpg";
       } else if (seat.innerText === "পিরোজপুর-২") {
-        e_popup_img.src = "https://i.ibb.co/Y0q8qQt/Pirojpur-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/nBh0Ymy/Pirojpur-2.jpg";
       } else if (seat.innerText === "পিরোজপুর-৩") {
-        e_popup_img.src = "https://i.ibb.co/Qm9jfMM/Pirojpur-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/r6xMrKW/Pirojpur-3.jpg";
       }
 
       // remaining
 
       // patuakhali seats
       else if (seat.innerText === "পটুয়াখালী-১") {
-        e_popup_img.src = "https://i.ibb.co/wzsnsZ9/Potuakhali-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/Rz9Zbty/Potuakhali-1.jpg";
       } else if (seat.innerText === "পটুয়াখালী-২") {
-        e_popup_img.src = "https://i.ibb.co/zhcZfwn/Potuakhali-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/L8f7HcN/Potuakhali-2.jpg";
       } else if (seat.innerText === "পটুয়াখালী-৩") {
-        e_popup_img.src = "https://i.ibb.co/SNgZPjL/Potuakhali-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/mBsL31y/Potuakhali-3.jpg";
       } else if (seat.innerText === "পটুয়াখালী-৪") {
-        e_popup_img.src = "https://i.ibb.co/pPj3X4D/Potuakhali-4.jpg";
+        e_popup_img.src = "https://i.ibb.co/L50wbbW/Potuakhali-4.jpg";
       }
 
       // rangamati
       else if (seat.innerText === "রাঙ্গামাটি") {
-        e_popup_img.src = "https://i.ibb.co/crQQ0G2/Rangamati.jpg";
+        e_popup_img.src = "https://i.ibb.co/W3VCXJF/Rangamati.jpg";
       }
 
       // shatkhira seats
       else if (seat.innerText === "সাতক্ষীরা-১") {
-        e_popup_img.src = "https://i.ibb.co/mCxN11z/Satkhira-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/QPZvZcS/Satkhira-1.jpg";
       } else if (seat.innerText === "সাতক্ষীরা-২") {
-        e_popup_img.src = "https://i.ibb.co/Vxrdfww/Satkhira-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/BgpJ9px/Satkhira-2.jpg";
       } else if (seat.innerText === "সাতক্ষীরা-৩") {
-        e_popup_img.src = "https://i.ibb.co/mv4z4Mj/Satkhira-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/Hdht1xv/Satkhira-3.jpg";
       } else if (seat.innerText === "সাতক্ষীরা-৪") {
-        e_popup_img.src = "https://i.ibb.co/PFMSLYM/Satkhira-4.jpg";
+        e_popup_img.src = "https://i.ibb.co/wyBVDfY/Satkhira-4.jpg";
       }
 
       // sirajganj seats
       else if (seat.innerText === "সিরাজগঞ্জ-১") {
-        e_popup_img.src = "https://i.ibb.co/Pm6WcTb/Sirajganj-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/BrrCznB/Sirajganj-1.jpg";
       } else if (seat.innerText === "সিরাজগঞ্জ-২") {
-        e_popup_img.src = "https://i.ibb.co/h2YWM52/Sirajganj-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/t3p2S16/Sirajganj-2.jpg";
       } else if (seat.innerText === "সিরাজগঞ্জ-৩") {
-        e_popup_img.src = "https://i.ibb.co/XVgzWmj/Sirajganj-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/wy3kXCT/Sirajganj-3.jpg";
       } else if (seat.innerText === "সিরাজগঞ্জ-৪") {
-        e_popup_img.src = "https://i.ibb.co/8jygwwS/Sirajganj-4.jpg";
+        e_popup_img.src = "https://i.ibb.co/Mkv2Yy0/Sirajganj-4.jpg";
       } else if (seat.innerText === "সিরাজগঞ্জ-৫") {
-        e_popup_img.src = "https://i.ibb.co/sFcZH8n/Sirajganj-5.jpg";
+        e_popup_img.src = "https://i.ibb.co/c6yL7Vj/Sirajganj-5.jpg";
       } else if (seat.innerText === "সিরাজগঞ্জ-৬") {
-        e_popup_img.src = "https://i.ibb.co/6t5mxRZ/Sirajganj-6.jpg";
+        e_popup_img.src = "https://i.ibb.co/W5vcRTP/Sirajganj-6.jpg";
       }
 
       // bhola seats
       else if (seat.innerText === "ভোলা-১") {
-        e_popup_img.src = "https://i.ibb.co/9YQrXs3/Vola-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/XC82VB9/Vola-1.jpg";
       } else if (seat.innerText === "ভোলা-২") {
-        e_popup_img.src = "https://i.ibb.co/WzSp3S3/Vola-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/MpjDBNz/Vola-2.jpg";
       } else if (seat.innerText === "ভোলা-৩") {
-        e_popup_img.src = "https://i.ibb.co/Kz2Gjy8/Vola-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/Gt3WnYW/Vola-3.jpg";
       } else if (seat.innerText === "ভোলা-৪") {
-        e_popup_img.src = "https://i.ibb.co/fvWVpNb/Vola-4.jpg";
+        e_popup_img.src = "https://i.ibb.co/ykD2YKt/Vola-4.jpg";
       }
 
       // faridpur seats
@@ -1028,69 +1028,69 @@ const calculateTotalSeats = (distSeats) => {
 
       // kishoreganj seats
       else if (seat.innerText === "কিশোরগঞ্জ-১") {
-        e_popup_img.src = "https://i.ibb.co/vw27gK0/Kishorgonj-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/DCF2SZR/Kisorganj-1.jpg";
       } else if (seat.innerText === "কিশোরগঞ্জ-২") {
-        e_popup_img.src = "https://i.ibb.co/4Y2TNfq/Kishorgonj-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/5jHnfcT/Kisorganj-2.jpg";
       } else if (seat.innerText === "কিশোরগঞ্জ-৩") {
-        e_popup_img.src = "https://i.ibb.co/x7cT4gb/Kishorgonj-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/pxZzLmd/Kisorganj-3.jpg";
       } else if (seat.innerText === "কিশোরগঞ্জ-৪") {
-        e_popup_img.src = "https://i.ibb.co/0Cqp2y0/Kishorgonj-4.jpg";
+        e_popup_img.src = "https://i.ibb.co/qL68vQD/Kisorganj-4.jpg";
       } else if (seat.innerText === "কিশোরগঞ্জ-৫") {
-        e_popup_img.src = "https://i.ibb.co/THgtfgR/Kishorgonj-5.jpg";
+        e_popup_img.src = "https://i.ibb.co/KNPBGgT/Kisorganj-5.jpg";
       } else if (seat.innerText === "কিশোরগঞ্জ-৬") {
-        e_popup_img.src = "https://i.ibb.co/1ZrvmPY/Kishorgonj-6.jpg";
+        e_popup_img.src = "https://i.ibb.co/hRgXxmx/Kisorganj-6.jpg";
       }
 
       // madaripur seats
       else if (seat.innerText === "মাদারীপুর-১") {
-        e_popup_img.src = "https://i.ibb.co/px0KMbZ/Madaripur-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/TqmZV2p/Madaripur-1.jpg";
       } else if (seat.innerText === "মাদারীপুর-২") {
-        e_popup_img.src = "https://i.ibb.co/VDQFmDz/Madaripur-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/5GBSR79/Madaripur-2.jpg";
       } else if (seat.innerText === "মাদারীপুর-৩") {
-        e_popup_img.src = "https://i.ibb.co/g9N5QNw/Madaripur-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/1XrdDPz/Madaripur-3.jpg";
       }
 
       // manikganj seats
       else if (seat.innerText === "মানিকগঞ্জ-১") {
-        e_popup_img.src = "https://i.ibb.co/DgWPgFY/Manikganj-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/bL4Xrkf/Manikganj-1.jpg";
       } else if (seat.innerText === "মানিকগঞ্জ-২") {
-        e_popup_img.src = "https://i.ibb.co/qnKpkK2/Manikganj-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/2FpQ6rb/Manikganj-2.jpg";
       } else if (seat.innerText === "মানিকগঞ্জ-৩") {
-        e_popup_img.src = "https://i.ibb.co/S5ypw8d/Manikganj-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/JxMjcmK/Manikganj-3.jpg";
       }
 
       // munshiganj seats
       else if (seat.innerText === "মুন্সীগঞ্জ-১") {
-        e_popup_img.src = "https://i.ibb.co/Dwb6QQN/Munshiganj-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/3rhtGB7/Munsiganj-1.jpg";
       } else if (seat.innerText === "মুন্সীগঞ্জ-২") {
-        e_popup_img.src = "https://i.ibb.co/DDq4pvt/Munshiganj-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/GthL3sP/Munsiganj-2.jpg";
       } else if (seat.innerText === "মুন্সীগঞ্জ-৩") {
-        e_popup_img.src = "https://i.ibb.co/c1gW970/Munshiganj-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/zhBfyTD/Munsiganj-3.jpg";
       }
 
       // mymensingh seats
       else if (seat.innerText === "ময়মনসিংহ-১") {
-        e_popup_img.src = "https://i.ibb.co/DgQFtG2/Mymnshingh-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/wQhJ4hm/Mymnsing-1.jpg";
       } else if (seat.innerText === "ময়মনসিংহ-২") {
-        e_popup_img.src = "https://i.ibb.co/THtzBLZ/Mymnshingh-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/BPs278g/Mymnsing-2.jpg";
       } else if (seat.innerText === "ময়মনসিংহ-৩") {
-        e_popup_img.src = "https://i.ibb.co/7yWqJhb/Mymnshingh-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/TRttqDR/Postponed.jpg";
       } else if (seat.innerText === "ময়মনসিংহ-৪") {
-        e_popup_img.src = "https://i.ibb.co/sC2CY4J/Mymnshingh-4.jpg";
+        e_popup_img.src = "https://i.ibb.co/R4Mdyq0/Mymnsing-4.jpg";
       } else if (seat.innerText === "ময়মনসিংহ-৫") {
-        e_popup_img.src = "https://i.ibb.co/YPdKfb4/Mymnshingh-5.jpg";
+        e_popup_img.src = "https://i.ibb.co/YRqry3d/Mymnsing-5.jpg";
       } else if (seat.innerText === "ময়মনসিংহ-৬") {
-        e_popup_img.src = "https://i.ibb.co/Q865pFr/Mymnshingh-6.jpg";
+        e_popup_img.src = "https://i.ibb.co/5BC4bNg/Mymnsing-6.jpg";
       } else if (seat.innerText === "ময়মনসিংহ-৭") {
-        e_popup_img.src = "https://i.ibb.co/5YVfT75/Mymnshingh-7.jpg";
+        e_popup_img.src = "https://i.ibb.co/DC54xHW/Mymnsing-7.jpg";
       } else if (seat.innerText === "ময়মনসিংহ-৮") {
-        e_popup_img.src = "https://i.ibb.co/kysWvYx/Mymnshingh-8.jpg";
+        e_popup_img.src = "https://i.ibb.co/KWCs04w/Mymnsing-8.jpg";
       } else if (seat.innerText === "ময়মনসিংহ-৯") {
-        e_popup_img.src = "https://i.ibb.co/yFHN5m0/Mymnshingh-9.jpg";
+        e_popup_img.src = "https://i.ibb.co/0tYP5Tf/Mymnsing-9.jpg";
       } else if (seat.innerText === "ময়মনসিংহ-১০") {
-        e_popup_img.src = "https://i.ibb.co/7kDPV9P/Mymnshingh-10.jpg";
+        e_popup_img.src = "https://i.ibb.co/n82FDtY/Mymnsing-10.jpg";
       } else if (seat.innerText === "ময়মনসিংহ-১১") {
-        e_popup_img.src = "https://i.ibb.co/L67vftv/Mymnshingh-11.jpg";
+        e_popup_img.src = "https://i.ibb.co/dKGn42v/Mymnsing-11.jpg";
       }
 
       // narayanganj seats
@@ -1134,37 +1134,37 @@ const calculateTotalSeats = (distSeats) => {
 
       // rajbari seats
       else if (seat.innerText === "রাজবাড়ী-১") {
-        e_popup_img.src = "https://i.ibb.co/GM3sHGt/Rajbari-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/yNBFWcN/Rajbari-1.jpg";
       } else if (seat.innerText === "রাজবাড়ী-২") {
-        e_popup_img.src = "https://i.ibb.co/8gzGLRx/Rajbari-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/zV5NRX9/Rajbari-2.jpg";
       }
 
       // sherpur seats
       else if (seat.innerText === "শেরপুর-১") {
-        e_popup_img.src = "https://i.ibb.co/P5mMz0r/Sherpur-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/gJ8Dw9z/Sherpur-1.jpg";
       } else if (seat.innerText === "শেরপুর-২") {
-        e_popup_img.src = "https://i.ibb.co/2jK1JkL/Sherpur-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/pj5wjHc/Sherpur-2.jpg";
       } else if (seat.innerText === "শেরপুর-৩") {
-        e_popup_img.src = "https://i.ibb.co/vsrqShm/Sherpur-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/SntbdyW/Sherpur-3.jpg";
       }
 
       // tangail seats
       else if (seat.innerText === "টাঙ্গাইল-১") {
-        e_popup_img.src = "https://i.ibb.co/Q6NbWkq/Tangail-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/31nj2f1/tangail-1.jpg";
       } else if (seat.innerText === "টাঙ্গাইল-২") {
-        e_popup_img.src = "https://i.ibb.co/qxV8Z70/Tangail-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/0Y3fb3v/tangail-2.jpg";
       } else if (seat.innerText === "টাঙ্গাইল-৩") {
-        e_popup_img.src = "https://i.ibb.co/4p0gJLc/Tangail-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/JFHFyy2/tangail-3.jpg";
       } else if (seat.innerText === "টাঙ্গাইল-৪") {
-        e_popup_img.src = "https://i.ibb.co/JRyh5F7/Tangail-4.jpg";
+        e_popup_img.src = "https://i.ibb.co/xMbRWmS/tangail-4.jpg";
       } else if (seat.innerText === "টাঙ্গাইল-৫") {
-        e_popup_img.src = "https://i.ibb.co/7tS2PpK/Tangail-5.jpg";
+        e_popup_img.src = "https://i.ibb.co/7tXYn7x/tangail-5.jpg";
       } else if (seat.innerText === "টাঙ্গাইল-৬") {
-        e_popup_img.src = "https://i.ibb.co/Hn0gb2p/Tangail-6.jpg";
+        e_popup_img.src = "https://i.ibb.co/NSLDmms/tangail-6.jpg";
       } else if (seat.innerText === "টাঙ্গাইল-৭") {
-        e_popup_img.src = "https://i.ibb.co/M26SnDp/Tangail-7.jpg";
+        e_popup_img.src = "https://i.ibb.co/bmc9YvG/tangail-7.jpg";
       } else if (seat.innerText === "টাঙ্গাইল-৮") {
-        e_popup_img.src = "https://i.ibb.co/xq7r8ty/Tangail-8.jpg";
+        e_popup_img.src = "https://i.ibb.co/gZ9NX9t/tangail-8.jpg";
       }
 
       // brahmanbaria seats
@@ -1195,50 +1195,50 @@ const calculateTotalSeats = (distSeats) => {
 
       // moulvibazar seats
       else if (seat.innerText === "মৌলভীবাজার-১") {
-        e_popup_img.src = "https://i.ibb.co/YNv94Gg/Moulovibazar-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/Yj1tbFG/Moulovibazar-2.jpg";
       } else if (seat.innerText === "মৌলভীবাজার-২") {
         e_popup_img.src = "https://i.ibb.co/y4xCMfQ/Moulovibazar-2.jpg";
       } else if (seat.innerText === "মৌলভীবাজার-৩") {
-        e_popup_img.src = "https://i.ibb.co/F7srTSd/Moulovibazar-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/hDtFrQP/Moulovibazar-3.jpg";
       } else if (seat.innerText === "মৌলভীবাজার-৪") {
-        e_popup_img.src = "https://i.ibb.co/ky2VfbY/Moulovibazar-4.jpg";
+        e_popup_img.src = "https://i.ibb.co/DLNctb8/Moulovibazar-4.jpg";
       }
 
       // shariatpur seats
       else if (seat.innerText === "শরীয়তপুর-১") {
-        e_popup_img.src = "https://i.ibb.co/CVn1ccZ/Shariatpur-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/7Yzv5VF/Shariatpur-1.jpg";
       } else if (seat.innerText === "শরীয়তপুর-২") {
-        e_popup_img.src = "https://i.ibb.co/gvQTvXp/Shariatpur-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/4P60PN6/Shariatpur-2.jpg";
       } else if (seat.innerText === "শরীয়তপুর-৩") {
-        e_popup_img.src = "https://i.ibb.co/80LhTc0/Shariatpur-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/Y3yNfdM/Shariatpur-3.jpg";
       }
 
       // sunamganj seats
       else if (seat.innerText === "সুনামগঞ্জ-১") {
-        e_popup_img.src = "https://i.ibb.co/mXf4x1Q/Sunamganj-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/dmGkQr7/Sunamganj-1.jpg";
       } else if (seat.innerText === "সুনামগঞ্জ-২") {
-        e_popup_img.src = "https://i.ibb.co/znKsX5s/Sunamganj-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/XjwzMyd/Sunamganj-2.jpg";
       } else if (seat.innerText === "সুনামগঞ্জ-৩") {
-        e_popup_img.src = "https://i.ibb.co/m0kH3PC/Sunamganj-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/mybfwNB/Sunamganj-3.jpg";
       } else if (seat.innerText === "সুনামগঞ্জ-৪") {
-        e_popup_img.src = "https://i.ibb.co/82078yD/Sunamganj-4.jpg";
+        e_popup_img.src = "https://i.ibb.co/MkhCwMC/Sunamganj-4.jpg";
       } else if (seat.innerText === "সুনামগঞ্জ-৫") {
-        e_popup_img.src = "https://i.ibb.co/61r8DjV/Sunamganj-5.jpg";
+        e_popup_img.src = "https://i.ibb.co/2Wv4XR2/Sunamganj-5.jpg";
       }
 
       // sylhet seats
       else if (seat.innerText === "সিলেট-১") {
-        e_popup_img.src = "https://i.ibb.co/bBgy99g/Sylhet-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/0qgp7HK/Sylhet-1.jpg";
       } else if (seat.innerText === "সিলেট-২") {
-        e_popup_img.src = "https://i.ibb.co/YTsrRG2/Sylhet-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/7nJH9th/Sylhet-2.jpg";
       } else if (seat.innerText === "সিলেট-৩") {
-        e_popup_img.src = "https://i.ibb.co/xs1QW2G/Sylhet-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/Q9X0qTF/Sylhet-3.jpg";
       } else if (seat.innerText === "সিলেট-৪") {
-        e_popup_img.src = "https://i.ibb.co/kyBcvVf/Sylhet-4.jpg";
+        e_popup_img.src = "https://i.ibb.co/Df5tSxy/Sylhet-4.jpg";
       } else if (seat.innerText === "সিলেট-৫") {
-        e_popup_img.src = "https://i.ibb.co/fGgqTnt/Sylhet-5.jpg";
+        e_popup_img.src = "https://i.ibb.co/RjbrQN1/Sylhet-5.jpg";
       } else if (seat.innerText === "সিলেট-৬") {
-        e_popup_img.src = "https://i.ibb.co/BB1C1yr/Sylhet-6.jpg";
+        e_popup_img.src = "https://i.ibb.co/TLXw0d1/Sylhet-6.jpg";
       }
 
       // chadpur seats
@@ -1290,13 +1290,13 @@ const calculateTotalSeats = (distSeats) => {
 
       // lakshmipur seats
       else if (seat.innerText === "লক্ষ্মীপুর-১") {
-        e_popup_img.src = "https://i.ibb.co/d7bG6yG/Laksmipur-1.jpg";
+        e_popup_img.src = "https://i.ibb.co/87vgNr9/LAksmipur-1.jpg";
       } else if (seat.innerText === "লক্ষ্মীপুর-২") {
-        e_popup_img.src = "https://i.ibb.co/TPmncV9/Laksmipur-2.jpg";
+        e_popup_img.src = "https://i.ibb.co/7CLvs44/LAksmipur-2.jpg";
       } else if (seat.innerText === "লক্ষ্মীপুর-৩") {
-        e_popup_img.src = "https://i.ibb.co/x3Dj43T/Laksmipur-3.jpg";
+        e_popup_img.src = "https://i.ibb.co/4m9D9ff/LAksmipur-3.jpg";
       } else if (seat.innerText === "লক্ষ্মীপুর-৪") {
-        e_popup_img.src = "https://i.ibb.co/C77c9NJ/Laksmipur-4.jpg";
+        e_popup_img.src = "https://i.ibb.co/N3yH3QH/LAksmipur-4.jpg";
       }
 
       // noakhali seats
